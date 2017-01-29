@@ -22,6 +22,7 @@ do local _ = {
     "banbanban",
     "getfile",
     "me",
+    "oc",
     "nowgroup",
     "admin",
     "all",
