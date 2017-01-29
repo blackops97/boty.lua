@@ -23,6 +23,7 @@ do local _ = {
     "getfile",
     "me",
     "oc",
+    "id",
     "nowgroup",
     "admin",
     "all",
